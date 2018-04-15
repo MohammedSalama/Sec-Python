@@ -1,0 +1,59 @@
+==========================================================
+=====================[Cyber Security]=====================
+==========================================================
+[The Basics]
+
+1 - Networking => https://www.youtube.com/watch?v=99yGdRRNe0M&list=PL7Gr36YWMQJce2BRY8rqxkygVyBb618iF
+
+2 - Security + => https://www.youtube.com/watch?v=1V0herZjDfk&list=PLCIJjtzQPZJ9tmm43K6KCeZo2MNbB1F3P
+
+2 - windows OS + Batch Scripting + PowerShell Scripting => https://tutorials.cyberaces.org/tutorials
+
+3 - Linux OS + Bash Scripting => https://tutorials.cyberaces.org/tutorials
+
+4 - web development [html + css + js + php + mysql] => https://www.youtube.com/watch?v=kYaD1-5jWc4&list=PLMm8EjqH1EFUyV5MNXMc9-drTruhxhTRQ + https://www.youtube.com/watch?v=-2nITn4a87w&list=PLMm8EjqH1EFWgsU3uKf-DWo9MjT4o1QWn
+
+5 - Programming Language Skills [Python/OOP + C/OOP] => [[The complete python course I've ever seen before : https://www.tutorialspoint.com/python_online_training/index.asp ]] , C => [any good resource you want...]
+
+6 - Assembly x86 [for Reverse Engineering and Exploit Development] => https://www.youtube.com/watch?v=VXyjgzbxH0Q&list=PLMm8EjqH1EFVodghdDWaAuHkHqj-nJ0bN
+
+==========================================================
+AFTER THAT... KEEP MOVING AND DON'T STOP...
+
+1 - CEH => https://www.youtube.com/watch?v=eNlHwyYBt0Y&list=PLCIJjtzQPZJ9iJ3NS1xXJKyCOyD90dHuH + https://www.youtube.com/playlist?list=PLKMMmxh_kxS1J6T87GkWBvFt37JBzXxWy
+
+2 - Metasploit Framework => https://www.youtube.com/channel/UCCL_vo2ZoeDleibXikT9efQ/playlists
+
+2 - Network Penetration Testing => https://drive.google.com/drive/folders/0B9h6Z88xmpyKbjcwcmVOdWl6S1k
+
+3 - Web Penetration Testing => https://drive.google.com/drive/folders/0B9h6Z88xmpyKcnlJb05DcHB5WUk + https://www.youtube.com/watch?v=BjfCWSFmIFI&list=PLv7cogHXoVhXvHPzIl1dWtBiYUAL8baHj [still not completed!!]
+
+4 - Reverse Engineering => [search here: https://drive.google.com/drive/folders/0B9h6Z88xmpyKOFYwd2RWWHViZXc]
+
+5 - Exploit Development => [search here: https://drive.google.com/drive/folders/0B9h6Z88xmpyKOFYwd2RWWHViZXc]
+ 
+6 - Python Security [Recommended from BOOKS NOT VIDEOS!!] => https://drive.google.com/drive/folders/0B9h6Z88xmpyKQ01fa3VyM1lmSjQ
+
+[Remember KEEP MOVING...]
+==========================================================
+=======================[Good Luck!!]======================
+
+Just Two Notes I'd Like To Say:
+=============================== 
+FIRST : Before Sarting anyThing in your Life ... Put a plan for this first, Things that work randomly always FAIL !!
+SECOND : Don't be in a hurry ! still patient and "HARD WORKING" to achive your dream :)
+
+there are a LOTS of powerful courses here:
+
+- https://drive.google.com/drive/folders/0B8LffUJ7WkR1U0hEQ0kta005Nk0
+
+- https://drive.google.com/drive/folders/0B8LffUJ7WkR1Z3MzZkQtQVAxc2M
+
+helpful website [this website help me in a lot of things]:
+Muhammed
+
+- https://www.nakerah.net/index.php & and its channel on YouTube : https://www.youtube.com/channel/UCvgMmTPBM7xRyxU07-cBpbg
+muhammed
+
+===========================================[ EveryThing Needs a Time to be DONE !! ]====================================================
+===========================================[       Practice makes Perfect       !! ]====================================================
