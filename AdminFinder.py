@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#########By Abdallah Elsokary############
 import urllib.request
 from optparse import OptionParser
 from clint.textui import colored
